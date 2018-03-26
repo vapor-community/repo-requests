@@ -10,7 +10,7 @@ The idea is that the community can join together, work on them and contribute to
 * AdminPanel
 * AWS (S3, Route53, EC2 etc.)
 * Kafka driver
-* SocketIO support
+* Socket.IO support
 
 ## Contributing
 
